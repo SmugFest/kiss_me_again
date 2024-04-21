@@ -1,1 +1,1 @@
-<video controls autoplay src="[your-video-file.mp4](https://github.com/SmugFest/kiss_me_again/assets/167689974/d3e735e7-e0ea-4ec0-93bf-f7f5994a385c)" type="video/mp4">Your browser does not support the video tag.</video>
+https://github.com/SmugFest/kiss_me_again/assets/167689974/d3e735e7-e0ea-4ec0-93bf-f7f5994a385c
